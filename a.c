@@ -4,4 +4,5 @@
 main() {
     printf("Hello, world!\n");
     printf("sqrt of 2 is %f\n", sqrt(2));
+printf("Don't you like conflicts?\n");
 }
