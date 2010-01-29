@@ -6,3 +6,7 @@ main() {
     printf("sqrt of 2 is %f\n", sqrt(2));
     printf("I make conflicts because I am Lotus\n");
 }
+
+reviewv2() {
+	printf("This is to test the new reviewv2\n");
+}
