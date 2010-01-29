@@ -8,5 +8,6 @@ main() {
 }
 
 reviewv2() {
+        // Why does this show with a link to LotusCat and other lines don't?
 	printf("This is to test the new reviewv2\n");
 }
